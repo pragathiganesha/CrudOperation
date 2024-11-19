@@ -4,7 +4,7 @@ Springboot H2 database CRUD operation
 Accepts reviews and stores them- 
 localhost:8080/add
 
-Fetch all reviews if no filters are applied -\n
+Fetch all reviews if no filters are applied -
 localhost:8080/
 
 Reviews can be filtered by date, store type or rating - 
